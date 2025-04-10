@@ -1,0 +1,8 @@
+@media screen and (max-width:650px) {
+    * {
+        transition: 400ms;
+    }
+    body{
+        background-color: rgba(0, 0, 0, 0.888);
+    }
+}
