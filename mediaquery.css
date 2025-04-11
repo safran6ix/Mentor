@@ -10,7 +10,7 @@
     }
     #imageone {
         width: 300px;
-        margin-top: -350px;
+        margin-top: -280px;
         margin-left: 5%;
     }
     #imagesecond{
@@ -18,5 +18,12 @@
         margin-top: 50px;
         width: 300px;
         margin-left: 5%;
+    }
+    .button{
+        height: 35px;
+        width: 40%;
+        margin-top: -370px;
+        margin-left: 36%;
+        box-shadow: 0px 0px 20px rgb(0, 247, 255);
     }
 }
