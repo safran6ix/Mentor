@@ -26,4 +26,16 @@
         margin-left: 36%;
         box-shadow: 0px 0px 20px rgb(0, 247, 255);
     }
+    .boxone {
+        width: 100px;
+        top: 100px;
+        left: 100px;
+    }
+    .boxtwo{
+        left: 20px;
+    }
+    .boxthree {
+        left: 180px;
+    }
+
 }
