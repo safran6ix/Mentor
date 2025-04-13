@@ -60,5 +60,10 @@
     .profile-cont h1{
         font-size: 40px;
     }
+    .profile-cont button{
+        display: grid;
+        align-items: center;
+        margin: 15px;
+    }
 
 }
