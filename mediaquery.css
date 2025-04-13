@@ -40,5 +40,11 @@
     .boxthree {
         left: 180px;
     }
-
+    .boxfour {
+        top: 700px;
+        right: 50px;
+    }
+    .navbar-tags{
+        display: none;
+    }
 }
