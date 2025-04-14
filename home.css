@@ -197,8 +197,8 @@ body{
 }
 .side-navbar button{
     position: absolute;
-    right: 20px;
-    top: 20px;
+    right: 10px;
+    top: 10px;
     width: 40px;
     height: 40px;
     font-size: 25px;
@@ -207,7 +207,33 @@ body{
     color: white;
 }
 .side-navbar-tags{
-    
+    margin-top: 100px;
+    height: 500px;
+    /* background-color: #3498db; */
+}
+.side-navbar-tags h3{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 30px;
+    margin-left: 10%;
+    width: 80%;
+    height: 50px;
+    background-color: #0000002f;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+
+    border-radius: 20px;
+    background-color: #ffffff13;
+    color: white;
+    border: 1px solid #6361d3b9;
+    box-shadow: 0px 0px 10px rgba(128, 128, 128, 0.318);
+}
+.side-navbar-tags h3:hover{
+    cursor: pointer;
+    border: 1px solid #6361d3;
+    box-shadow: 0px 0px 10px rgba(128, 128, 128, 0.49);
 }
 .profile-cont{
     position: relative;
