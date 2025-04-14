@@ -193,6 +193,7 @@ body{
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
     box-shadow: 0px 0px 10px #000;
+    left: -100%;
 }
 .side-navbar button{
     position: absolute;
