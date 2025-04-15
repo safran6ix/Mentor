@@ -76,5 +76,8 @@
         font-size: 150px;
         right: 20%;
     }
+    .middle-box{
+        display: none;
+    }
 
 }
