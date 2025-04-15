@@ -5,6 +5,9 @@
     body{
         background-color: rgb(0, 0, 0);
     }
+    .container{
+        height: 2000px;
+    }
     .middle-container h1{
         font-size: 30px;
     }
@@ -74,10 +77,13 @@
         color: white;
         text-shadow: 0px 0px 20px #3498db;
         font-size: 150px;
-        right: 20%;
+        right: 25%;
     }
     .middle-box{
-        display: none;
+        display: grid;
+        margin-top: 350px;
+        height: 1000px;
     }
+    
 
 }
