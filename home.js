@@ -24,6 +24,6 @@ window.addEventListener('scroll', () => {
 
     if (scrollY < 10) {
         middlebox.style.transition = "400ms";
-        middlebox.style.margin= "0px 150px";
+        middlebox.style.margin = "150px 0px";
     }
 });
