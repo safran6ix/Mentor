@@ -47,6 +47,13 @@
         top: 700px;
         right: 50px;
     }
+    .boxfive {
+        display: block;
+        top: 1500px;
+        right: 100px;
+        width: 250px;
+        height: 300px;
+    }
     .navbar-tags{
         display: none;
     }
