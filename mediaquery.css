@@ -54,6 +54,10 @@
         width: 250px;
         height: 300px;
     }
+    .nav-bar h1{
+        padding-top: 30px;
+        font-size: 30px;
+    }
     .navbar-tags{
         display: none;
     }
@@ -62,7 +66,7 @@
     }
    
     .profile-cont {
-        top: 0px;
+        top: 50px;
         left: 0px;
         width: 90%;
         margin: 20px;
@@ -78,7 +82,7 @@
     }
     .main-image {
         /* display: none; */
-        top: 100px;
+        top: 120px;
         width: 50px;
         height: 50px;
         /* background-color: #4adb34; */
@@ -92,7 +96,7 @@
         overflow: hidden;
         /* margin-top: 350px; */
         position: absolute;
-        top: 660px;
+        top: 700px;
         height: 1000px;
     }
     
