@@ -138,3 +138,23 @@ body {
         height: calc(100% - 2vmin);
     }
 }
+
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 50px;
+    /* background-color: #ffffff; */
+    border-radius: 10px;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    color: #ffffff;
+    text-shadow: 0px 0px 10px rgb(37, 197, 255);
+    box-shadow: 0px 0px 10px rgb(111, 111, 251);
+    cursor: pointer;
+    transition: 400ms;
+}
+.button:hover{
+    box-shadow: 0px 0px 10px rgb(0, 0, 255);
+}
