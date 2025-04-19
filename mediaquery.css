@@ -68,12 +68,13 @@
         margin: 20px;
     }
     .profile-cont h1{
-        font-size: 40px;
+        font-size: 35px;
     }
     .profile-cont button{
         display: grid;
         align-items: center;
-        margin: 15px;
+        margin-top: 15px;
+        left: 20%;
     }
     .main-image {
         /* display: none; */
