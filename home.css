@@ -335,12 +335,13 @@ body{
     backdrop-filter: blur(100px);
     box-shadow: 0px 0px 30px #9ed5f92d;
     border-top-right-radius: 40px;
+    border-top-left-radius: 20px;
     border-bottom-left-radius: 40px;
-    /* border-bottom-right-radius: 20px; */
+    border-bottom-right-radius: 20px;
     margin-left: 10%;
     margin-top: 2%;
 }
-.middle-box h1{
+/* .middle-box h1{
     position: absolute;
     top: 15px;
     left: 15px;
@@ -349,7 +350,7 @@ body{
     text-shadow: 0px 0px 20px #3498db;
     font-weight: 600;
     font-size: 25px;
-}
+} */
 .middle-box i{
     font-size: 150px;
     color: rgb(255, 255, 255);

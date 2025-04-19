@@ -89,7 +89,9 @@
     .middle-box{
         display: grid;
         overflow: hidden;
-        margin-top: 350px;
+        /* margin-top: 350px; */
+        position: absolute;
+        top: 660px;
         height: 1000px;
     }
     
