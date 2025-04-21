@@ -101,4 +101,23 @@
     }
     
 
+
+    /*PROJECTS STYLE*/
+    .proj-container{
+        display: grid;
+        height: 2000px;
+        text-align: center;
+    }
+   .proj-cont{
+        margin-top: 100px;
+        width: 200px;
+        height: 200px;
+   }
+   .title{
+       top: 50px;
+       left: 15%;
+   }
+
+
+
 }

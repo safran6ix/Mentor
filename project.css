@@ -15,7 +15,7 @@ body {
     height: 1000px;
     background-color: #3498db22;
 }
-.container {
+.proj-container{
     display: flex;
     justify-content: space-around;
     align-items: center;
