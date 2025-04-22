@@ -103,13 +103,19 @@
 
 
     /*PROJECTS STYLE*/
+    .proj-cont-container{
+        display: grid;
+        width: 90%;
+        height: 1000px;
+        background-color: aqua;
+    }
     .proj-container{
         display: grid;
         height: 2000px;
         text-align: center;
     }
    .proj-cont{
-        margin-top: 100px;
+        margin-top: 10px;
         width: 200px;
         height: 200px;
    }
