@@ -208,3 +208,17 @@ body {
 .linkedIn i {
     color: #00a2ff;
 }
+.youtube {
+    position: absolute;
+    top: 360px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    text-shadow: 0px 0px 20px #3498db;
+
+}
+
+.youtube i {
+    color: #ff0000;
+}
